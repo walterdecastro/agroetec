@@ -1,2 +1,2 @@
 # Agroetec - Um projeto Ânima LAB HUB
-App de Gestão para Pequenos Produtores
+A ideia de desenvolver esse app nasceu no projeto de iniciação científica da Ânima LAB HUB. A princípio deveria ser apenas um aplicativo de gestão agrícola. Obviamente as ideias não pararam por aí. O uso de inteligência artificial e conceitos de visão computacional acoplados a máquinas agrícolas surgiu nas reuniões do projeto. Deixo aqui o certificado de conclusão da pesquisa e o repo aberto para futuras novas etapas.
